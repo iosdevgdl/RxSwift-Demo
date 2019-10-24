@@ -5,4 +5,4 @@ Demo para iniciar con Rx Usando CollectionViews y TableViews
 
 - Clonen
 - instalen pod
-- agregen, URL y enpoints 
+- agregen, URL y endpoints
